@@ -1,0 +1,6 @@
+projectKey=CapmonProject123
+serverUrl=http://10.61.201.119:9000
+serverVersion=7.9.4.35981
+dashboardUrl=http://10.61.201.119:9000/dashboard?id=CapmonProject123
+ceTaskId=AXjxbaFodVSoVIOb9aov
+ceTaskUrl=http://10.61.201.119:9000/api/ce/task?id=AXjxbaFodVSoVIOb9aov
